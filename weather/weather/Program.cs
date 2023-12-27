@@ -8,7 +8,7 @@ namespace WeatherApp
     class Program
     {
         // Ganti dengan API key Anda dari WeatherAPI
-        private const string API_KEY = "masukkan API anda";
+        private const string API_KEY = "masukkan API anda disini (PENTING: JANGAN HILANGKAN TANDA KUTIP SAAT MEMASUKKAN API))";
 
         // Buat objek HttpClient untuk mengirim permintaan ke API
         private static readonly HttpClient client = new HttpClient();
