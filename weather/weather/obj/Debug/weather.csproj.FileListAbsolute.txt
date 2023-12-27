@@ -1,0 +1,10 @@
+E:\unity project\vs project\weather\weather\bin\Debug\weather.exe.config
+E:\unity project\vs project\weather\weather\bin\Debug\weather.exe
+E:\unity project\vs project\weather\weather\bin\Debug\weather.pdb
+E:\unity project\vs project\weather\weather\bin\Debug\Newtonsoft.Json.dll
+E:\unity project\vs project\weather\weather\bin\Debug\Newtonsoft.Json.xml
+E:\unity project\vs project\weather\weather\obj\Debug\weather.csproj.AssemblyReference.cache
+E:\unity project\vs project\weather\weather\obj\Debug\weather.csproj.CoreCompileInputs.cache
+E:\unity project\vs project\weather\weather\obj\Debug\weather.csproj.CopyComplete
+E:\unity project\vs project\weather\weather\obj\Debug\weather.exe
+E:\unity project\vs project\weather\weather\obj\Debug\weather.pdb
